@@ -1,0 +1,926 @@
+{
+  "我": {
+    "pinyin": "wǒ",
+    "means": "I, me"
+  },
+  "去": {
+    "pinyin": "qù",
+    "means": "to go"
+  },
+  "超市": {
+    "pinyin": "chāo shì",
+    "means": "supermarket"
+  },
+  "买": {
+    "pinyin": "mǎi",
+    "means": "to buy"
+  },
+  "了": {
+    "pinyin": "le",
+    "means": "particle indicating completed action"
+  },
+  "点": {
+    "pinyin": "diǎn",
+    "means": "point, dot, o'clock"
+  },
+  "东西": {
+    "pinyin": "dōng xī",
+    "means": "thing, stuff"
+  },
+  "超": {
+    "pinyin": "chāo",
+    "means": "to exceed, to surpass"
+  },
+  "市": {
+    "pinyin": "shì",
+    "means": "market, city"
+  },
+  "东": {
+    "pinyin": "dōng",
+    "means": "east"
+  },
+  "西": {
+    "pinyin": "xī",
+    "means": "west"
+  },
+  "你": {
+    "pinyin": "nǐ",
+    "means": "you"
+  },
+  "什么": {
+    "pinyin": "shén me",
+    "means": "what"
+  },
+  "让": {
+    "pinyin": "ràng",
+    "means": "to let, allow"
+  },
+  "看看": {
+    "pinyin": "kàn kan",
+    "means": "to look, to take a look"
+  },
+  "什": {
+    "pinyin": "shén",
+    "means": "what"
+  },
+  "么": {
+    "pinyin": "me",
+    "means": "question particle"
+  },
+  "看": {
+    "pinyin": "kàn",
+    "means": "to see, to look"
+  },
+  "主要": {
+    "pinyin": "zhǔ yào",
+    "means": "mainly; primarily"
+  },
+  "真的": {
+    "pinyin": "zhēn de",
+    "means": "really; truly"
+  },
+  "不怪我": {
+    "pinyin": "bù guài wǒ",
+    "means": "it's not my fault"
+  },
+  "主": {
+    "pinyin": "zhǔ",
+    "means": "master; main"
+  },
+  "要": {
+    "pinyin": "yào",
+    "means": "want; need; important"
+  },
+  "真": {
+    "pinyin": "zhēn",
+    "means": "real; true"
+  },
+  "的": {
+    "pinyin": "de",
+    "means": "possessive or descriptive particle"
+  },
+  "不": {
+    "pinyin": "bù",
+    "means": "not; no"
+  },
+  "怪": {
+    "pinyin": "guài",
+    "means": "blame; strange"
+  },
+  "就": {
+    "pinyin": "jiù",
+    "means": "then; just; simply"
+  },
+  "搞": {
+    "pinyin": "gǎo",
+    "means": "do; make; engage in"
+  },
+  "清楚": {
+    "pinyin": "qīng chǔ",
+    "means": "clear; understand"
+  },
+  "清": {
+    "pinyin": "qīng",
+    "means": "clear; pure"
+  },
+  "楚": {
+    "pinyin": "chǔ",
+    "means": "distinct; clear"
+  },
+  "两盒": {
+    "pinyin": "liǎng hé",
+    "means": "two boxes"
+  },
+  "一些": {
+    "pinyin": "yī xiē",
+    "means": "some, a few, several"
+  },
+  "牛奶": {
+    "pinyin": "niú nǎi",
+    "means": "milk"
+  },
+  "水果": {
+    "pinyin": "shuǐ guǒ",
+    "means": "fruit"
+  },
+  "两": {
+    "pinyin": "liǎng",
+    "means": "two"
+  },
+  "盒": {
+    "pinyin": "hé",
+    "means": "box"
+  },
+  "牛": {
+    "pinyin": "niú",
+    "means": "cow; ox"
+  },
+  "奶": {
+    "pinyin": "nǎi",
+    "means": "milk"
+  },
+  "一": {
+    "pinyin": "yī",
+    "means": "one"
+  },
+  "些": {
+    "pinyin": "xiē",
+    "means": "some; a few"
+  },
+  "水": {
+    "pinyin": "shuǐ",
+    "means": "water"
+  },
+  "果": {
+    "pinyin": "guǒ",
+    "means": "fruit; result"
+  },
+  "当然": {
+    "pinyin": "dāng rán",
+    "means": "of course"
+  },
+  "必须": {
+    "pinyin": "bì xū",
+    "means": "must; have to"
+  },
+  "坚持": {
+    "pinyin": "jiān chí",
+    "means": "persist; stick to"
+  },
+  "这个": {
+    "pinyin": "zhè gè",
+    "means": "this"
+  },
+  "项目": {
+    "pinyin": "xiàng mù",
+    "means": "project"
+  },
+  "全力以赴": {
+    "pinyin": "quán lì yǐ fù",
+    "means": "go all out"
+  },
+  "当": {
+    "pinyin": "dāng",
+    "means": "act as; proper"
+  },
+  "然": {
+    "pinyin": "rán",
+    "means": "so; naturally"
+  },
+  "必": {
+    "pinyin": "bì",
+    "means": "must"
+  },
+  "须": {
+    "pinyin": "xū",
+    "means": "need"
+  },
+  "坚": {
+    "pinyin": "jiān",
+    "means": "firm; strong"
+  },
+  "持": {
+    "pinyin": "chí",
+    "means": "hold; support"
+  },
+  "这": {
+    "pinyin": "zhè",
+    "means": "this"
+  },
+  "个": {
+    "pinyin": "gè",
+    "means": "individual; measure word"
+  },
+  "项": {
+    "pinyin": "xiàng",
+    "means": "item; project"
+  },
+  "目": {
+    "pinyin": "mù",
+    "means": "eye; item"
+  },
+  "全": {
+    "pinyin": "quán",
+    "means": "whole; complete"
+  },
+  "力": {
+    "pinyin": "lì",
+    "means": "strength; power"
+  },
+  "以": {
+    "pinyin": "yǐ",
+    "means": "with; by means of"
+  },
+  "赴": {
+    "pinyin": "fù",
+    "means": "go to; attend"
+  },
+  "也是": {
+    "pinyin": "yě shì",
+    "means": "also is; is also"
+  },
+  "来": {
+    "pinyin": "lái",
+    "means": "to come"
+  },
+  "相亲": {
+    "pinyin": "xiāng qīn",
+    "means": "blind date; arranged meeting for marriage"
+  },
+  "也": {
+    "pinyin": "yě",
+    "means": "also; too"
+  },
+  "是": {
+    "pinyin": "shì",
+    "means": "is; are; to be"
+  },
+  "相": {
+    "pinyin": "xiāng",
+    "means": "mutual; phase"
+  },
+  "亲": {
+    "pinyin": "qīn",
+    "means": "relative; parent; close"
+  },
+  "多少": {
+    "pinyin": "duō shǎo",
+    "means": "how much; how many"
+  },
+  "钱": {
+    "pinyin": "qián",
+    "means": "money"
+  },
+  "才能": {
+    "pinyin": "cái néng",
+    "means": "only then can; ability"
+  },
+  "离开": {
+    "pinyin": "lí kāi",
+    "means": "to leave; to depart"
+  },
+  "儿子": {
+    "pinyin": "ér zi",
+    "means": "son"
+  },
+  "多": {
+    "pinyin": "duō",
+    "means": "many; much; more"
+  },
+  "少": {
+    "pinyin": "shǎo",
+    "means": "few; less"
+  },
+  "才": {
+    "pinyin": "cái",
+    "means": "just; only; talent"
+  },
+  "能": {
+    "pinyin": "néng",
+    "means": "can; able to"
+  },
+  "离": {
+    "pinyin": "lí",
+    "means": "to leave; to separate"
+  },
+  "开": {
+    "pinyin": "kāi",
+    "means": "to open; to start; to leave"
+  },
+  "儿": {
+    "pinyin": "ér",
+    "means": "son; child"
+  },
+  "子": {
+    "pinyin": "zi",
+    "means": "child; son; seed"
+  },
+  "这儿": {
+    "pinyin": "zhè'er",
+    "means": "here; this place"
+  },
+  "我们的": {
+    "pinyin": "wǒ men de",
+    "means": "our; ours"
+  },
+  "家": {
+    "pinyin": "jiā",
+    "means": "home; family"
+  },
+  "们": {
+    "pinyin": "men",
+    "means": "plural marker for pronouns and some nouns"
+  },
+  "凭": {
+    "pinyin": "píng",
+    "means": "to rely on; based on; by means of"
+  },
+  "自己的": {
+    "pinyin": "Zìjǐ de",
+    "means": "Your own"
+  },
+  "打下我": {
+    "pinyin": "dǎxià wǒ",
+    "means": "hit me; fight me"
+  },
+  "自": {
+    "pinyin": "Zì",
+    "means": "since, from, self, oneself"
+  },
+  "本事": {
+    "pinyin": "běn shì",
+    "means": "ability; skill"
+  },
+  "打": {
+    "pinyin": "dǎ",
+    "means": "to hit; to strike; to play"
+  },
+  "下": {
+    "pinyin": "xià",
+    "means": "down; below; to descend"
+  },
+  "己": {
+    "pinyin": "jǐ",
+    "means": "self; oneself"
+  },
+  "本": {
+    "pinyin": "běn",
+    "means": "root; origin; book"
+  },
+  "事": {
+    "pinyin": "shì",
+    "means": "affair; matter; thing"
+  },
+  "至": {
+    "pinyin": "zhì",
+    "means": "to; until; extremely"
+  },
+  "于": {
+    "pinyin": "yú",
+    "means": "in; at; on; to; from"
+  },
+  "他们": {
+    "pinyin": "tāmen",
+    "means": "they; them (for males or mixed genders)"
+  },
+  "谁": {
+    "pinyin": "shéi",
+    "means": "who"
+  },
+  "他": {
+    "pinyin": "tā",
+    "means": "he; him"
+  },
+  "刚": {
+    "pinyin": "gāng",
+    "means": "just, recently"
+  },
+  "在": {
+    "pinyin": "zài",
+    "means": "at, in, on; indicates ongoing action"
+  },
+  "说": {
+    "pinyin": "shuō",
+    "means": "to speak, to say"
+  },
+  "问题": {
+    "pinyin": "wèntí",
+    "means": "problem, question"
+  },
+  "问": {
+    "pinyin": "wèn",
+    "means": "to ask"
+  },
+  "题": {
+    "pinyin": "tí",
+    "means": "topic, question"
+  },
+  "导": {
+    "pinyin": "dǎo",
+    "means": "to guide; to lead"
+  },
+  "游": {
+    "pinyin": "yóu",
+    "means": "to travel; to roam"
+  },
+  "通": {
+    "pinyin": "tōng",
+    "means": "to communicate; through; open"
+  },
+  "知的": {
+    "pinyin": "zhī de",
+    "means": "to know (possessive marker)"
+  },
+  "七": {
+    "pinyin": "qī",
+    "means": "seven"
+  },
+  "半": {
+    "pinyin": "bàn",
+    "means": "half"
+  },
+  "知": {
+    "pinyin": "zhī",
+    "means": "to know; knowledge"
+  },
+  "你们": {
+    "pinyin": "nǐmen",
+    "means": "you (plural)"
+  },
+  "有人": {
+    "pinyin": "yǒurén",
+    "means": "someone"
+  },
+  "跟": {
+    "pinyin": "gēn",
+    "means": "to follow; with"
+  },
+  "迪迪": {
+    "pinyin": "dí dí",
+    "means": "Didi (a name or proper noun)"
+  },
+  "联系": {
+    "pinyin": "liánxì",
+    "means": "to contact; connection"
+  },
+  "上了": {
+    "pinyin": "shàng le",
+    "means": "got on; went on"
+  },
+  "吗": {
+    "pinyin": "ma",
+    "means": "(question particle)"
+  },
+  "有": {
+    "pinyin": "yǒu",
+    "means": "to have; there is/are"
+  },
+  "人": {
+    "pinyin": "rén",
+    "means": "person"
+  },
+  "迪": {
+    "pinyin": "dí",
+    "means": "enlighten; Didi (proper noun)"
+  },
+  "联": {
+    "pinyin": "lián",
+    "means": "to connect; to unite"
+  },
+  "系": {
+    "pinyin": "xì",
+    "means": "to connect; system"
+  },
+  "上": {
+    "pinyin": "shàng",
+    "means": "on; above; to go up"
+  },
+  "知道": {
+    "pinyin": "zhī dào",
+    "means": "to know"
+  },
+  "没有": {
+    "pinyin": "méi yǒu",
+    "means": "not have; didn't"
+  },
+  "害怕": {
+    "pinyin": "hài pà",
+    "means": "afraid"
+  },
+  "失去": {
+    "pinyin": "shī qù",
+    "means": "to lose"
+  },
+  "过": {
+    "pinyin": "guò",
+    "means": "to pass; past tense marker"
+  },
+  "她": {
+    "pinyin": "tā",
+    "means": "she; her"
+  },
+  "道": {
+    "pinyin": "dào",
+    "means": "way; path"
+  },
+  "没": {
+    "pinyin": "méi",
+    "means": "not; without"
+  },
+  "害": {
+    "pinyin": "hài",
+    "means": "harm; danger"
+  },
+  "怕": {
+    "pinyin": "pà",
+    "means": "to fear"
+  },
+  "失": {
+    "pinyin": "shī",
+    "means": "to lose"
+  },
+  "觉得": {
+    "pinyin": "jué dé",
+    "means": "to think; to feel"
+  },
+  "可能": {
+    "pinyin": "kě néng",
+    "means": "might; possibly"
+  },
+  "觉": {
+    "pinyin": "jué / jiào",
+    "means": "to feel / sleep"
+  },
+  "得": {
+    "pinyin": "dé",
+    "means": "to get; particle indicating degree"
+  },
+  "可": {
+    "pinyin": "kě",
+    "means": "can; may; possible"
+  },
+  "导游": {
+    "pinyin": "dǎo yóu",
+    "means": "tour guide"
+  },
+  "通知": {
+    "pinyin": "tōng zhī",
+    "means": "to notify; notification"
+  },
+  "现在": {
+    "pinyin": "xiàn zài",
+    "means": "now; at present"
+  },
+  "疑问": {
+    "pinyin": "yí wèn",
+    "means": "question; doubt"
+  },
+  "现": {
+    "pinyin": "xiàn",
+    "means": "present; current"
+  },
+  "疑": {
+    "pinyin": "yí",
+    "means": "doubt; suspicion"
+  },
+  "至于": {
+    "pinyin": "zhì yú",
+    "means": "as for; regarding"
+  },
+  "二十": {
+    "pinyin": "èr shí",
+    "means": "twenty"
+  },
+  "年": {
+    "pinyin": "nián",
+    "means": "year"
+  },
+  "朋友了": {
+    "pinyin": "péng yǒu le",
+    "means": "friend (as a state, implying past or ongoing friendship)"
+  },
+  "吧": {
+    "pinyin": "ba",
+    "means": "particle indicating suggestion or assumption"
+  },
+  "二": {
+    "pinyin": "èr",
+    "means": "two"
+  },
+  "十": {
+    "pinyin": "shí",
+    "means": "ten"
+  },
+  "朋": {
+    "pinyin": "péng",
+    "means": "friend"
+  },
+  "友": {
+    "pinyin": "yǒu",
+    "means": "friend"
+  },
+  "有没有": {
+    "pinyin": "yǒu méiyǒu",
+    "means": "have or not have; whether or not"
+  },
+  "早点": {
+    "pinyin": "zǎo diǎn",
+    "means": "Noun:Breakfast; Adverbial: A bit earlier"
+  },
+  "休息": {
+    "pinyin": "xiū xī",
+    "means": "To rest or take a break."
+  },
+  "早": {
+    "pinyin": "zǎo",
+    "means": "Early; morning."
+  },
+  "休": {
+    "pinyin": "xiū",
+    "means": "To rest or stop."
+  },
+  "息": {
+    "pinyin": "xī",
+    "means": "Breath; rest; pause."
+  },
+  "听": {
+    "pinyin": "tīng",
+    "means": "to listen, hear"
+  },
+  "见": {
+    "pinyin": "jiàn",
+    "means": "to see, meet"
+  },
+  "好": {
+    "pinyin": "hǎo",
+    "means": "good, well"
+  },
+  "那": {
+    "pinyin": "nà",
+    "means": "that, there"
+  },
+  "马上": {
+    "pinyin": "mǎ shàng",
+    "means": "immediately, at once"
+  },
+  "视频": {
+    "pinyin": "shì pín",
+    "means": "video"
+  },
+  "马": {
+    "pinyin": "mǎ",
+    "means": "horse"
+  },
+  "视": {
+    "pinyin": "shì",
+    "means": "to look at, view"
+  },
+  "频": {
+    "pinyin": "pín",
+    "means": "frequency"
+  },
+  "喜欢": {
+    "pinyin": "xǐhuān",
+    "means": "to like"
+  },
+  "歌剧": {
+    "pinyin": "gējù",
+    "means": "opera"
+  },
+  "喜": {
+    "pinyin": "xǐ",
+    "means": "joy, happiness"
+  },
+  "欢": {
+    "pinyin": "huān",
+    "means": "happy, joyous"
+  },
+  "歌": {
+    "pinyin": "gē",
+    "means": "song"
+  },
+  "剧": {
+    "pinyin": "jù",
+    "means": "drama, play"
+  },
+  "会": {
+    "pinyin": "huì",
+    "means": "can, know how to; meeting"
+  },
+  "做": {
+    "pinyin": "zuò",
+    "means": "to do, to make"
+  },
+  "饭": {
+    "pinyin": "fàn",
+    "means": "rice, meal"
+  },
+  "可不": {
+    "pinyin": "kě bù",
+    "means": "whether or not; can or cannot"
+  },
+  "可以": {
+    "pinyin": "kě yǐ",
+    "means": "can, may, be allowed to"
+  },
+  "喝": {
+    "pinyin": "hē",
+    "means": "to drink"
+  },
+  "啊": {
+    "pinyin": "a",
+    "means": "particle expressing surprise, emphasis, or inquiry"
+  },
+  "记得": {
+    "pinyin": "jì dé",
+    "means": "to remember"
+  },
+  "记": {
+    "pinyin": "jì",
+    "means": "to note; to remember; to record"
+  },
+  "怎么": {
+    "pinyin": "zěnme",
+    "means": "how; why"
+  },
+  "怎": {
+    "pinyin": "zěn",
+    "means": "how; why (used in questions)"
+  },
+  "选择": {
+    "pinyin": "xuǎnzé",
+    "means": "choice; to choose"
+  },
+  "选": {
+    "pinyin": "xuǎn",
+    "means": "to select; to choose"
+  },
+  "择": {
+    "pinyin": "zé",
+    "means": "to select; to pick"
+  },
+  "我自己的": {
+    "pinyin": "wǒ zìjǐ de",
+    "means": "my own"
+  },
+  "情报": {
+    "pinyin": "qíng bào",
+    "means": "intelligence; information"
+  },
+  "组": {
+    "pinyin": "zǔ",
+    "means": "group; team"
+  },
+  "里面": {
+    "pinyin": "lǐ miàn",
+    "means": "inside"
+  },
+  "情": {
+    "pinyin": "qíng",
+    "means": "emotion; situation"
+  },
+  "报": {
+    "pinyin": "bào",
+    "means": "report; inform"
+  },
+  "里": {
+    "pinyin": "lǐ",
+    "means": "inside; within"
+  },
+  "面": {
+    "pinyin": "miàn",
+    "means": "side; surface; face"
+  },
+  "样": {
+    "pinyin": "yàng",
+    "means": "kind; type; manner"
+  },
+  "苦难": {
+    "pinyin": "kǔ nàn",
+    "means": "hardship; suffering"
+  },
+  "我都": {
+    "pinyin": "wǒ dōu",
+    "means": "I am all (willing)"
+  },
+  "愿意": {
+    "pinyin": "yuàn yì",
+    "means": "willing"
+  },
+  "吃": {
+    "pinyin": "chī",
+    "means": "eat; endure"
+  },
+  "苦": {
+    "pinyin": "kǔ",
+    "means": "bitterness; hardship"
+  },
+  "难": {
+    "pinyin": "nàn",
+    "means": "difficulty; trouble"
+  },
+  "都": {
+    "pinyin": "dōu",
+    "means": "all; both"
+  },
+  "愿": {
+    "pinyin": "yuàn",
+    "means": "wish; desire; willing"
+  },
+  "意": {
+    "pinyin": "yì",
+    "means": "intention; will; meaning"
+  },
+  "可不可": {
+    "pinyin": "kě bù kě",
+    "means": "can or cannot; is it possible?"
+  },
+  "为什么": {
+    "pinyin": "wèi shén me",
+    "means": "why"
+  },
+  "还": {
+    "pinyin": "hái",
+    "means": "still; yet"
+  },
+  "反复": {
+    "pinyin": "fǎn fù",
+    "means": "repeatedly"
+  },
+  "将": {
+    "pinyin": "jiāng",
+    "means": "to; will; to bring"
+  },
+  "拖": {
+    "pinyin": "tuō",
+    "means": "to drag; to pull"
+  },
+  "行了": {
+    "pinyin": "xíng le",
+    "means": "did; worked"
+  },
+  "几": {
+    "pinyin": "jǐ",
+    "means": "a few; several"
+  },
+  "为": {
+    "pinyin": "wèi",
+    "means": "for; because of"
+  },
+  "反": {
+    "pinyin": "fǎn",
+    "means": "reverse; counter"
+  },
+  "复": {
+    "pinyin": "fù",
+    "means": "repeat; again"
+  },
+  "行": {
+    "pinyin": "xíng",
+    "means": "to move; to go; to do"
+  },
+  "第一": {
+    "pinyin": "dì yī",
+    "means": "first"
+  },
+  "页": {
+    "pinyin": "yè",
+    "means": "page"
+  },
+  "查": {
+    "pinyin": "chá",
+    "means": "to check, to investigate"
+  },
+  "到": {
+    "pinyin": "dào",
+    "means": "to arrive, to reach"
+  },
+  "解": {
+    "pinyin": "jiě",
+    "means": "to understand, to solve"
+  },
+  "第": {
+    "pinyin": "dì",
+    "means": "ordinal prefix"
+  }
+}

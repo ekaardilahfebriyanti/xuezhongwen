@@ -1,0 +1,34 @@
+:root {
+    --OKCOLOR : green;
+}
+.chars {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 5px;
+    color:#555; 
+}
+.chars > div {
+    padding:2px 3px;
+    border-radius: 4px;
+}
+
+.resfalse {
+    background-color: red;
+    color:white;
+}
+.restrue {
+    background-color: var(--OKCOLOR);
+    color: white;;
+}
+
+.progress {
+    background-color: red;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+.progress > div {
+    height: 8px;
+    background-color: var(--OKCOLOR);
+    border-radius: 5px;
+}

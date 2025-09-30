@@ -1,0 +1,29 @@
+.line {
+    display:flex;
+    gap:20px;
+    justify-content: center;
+    flex-direction: column;
+}
+.char {
+    border-bottom: 1px dashed rgba(225,225,225,0.3);
+    padding-bottom: 5px;
+}
+.char , .char > div {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    gap:10px;
+}
+
+
+:global(.mdUp) { 
+    .line { 
+        flex-direction: row;
+    }
+    .char , .char > div { 
+        flex-direction: column;
+    }
+    .char {
+        border-bottom: none;
+    }
+}

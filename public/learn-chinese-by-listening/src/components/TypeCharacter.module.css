@@ -1,0 +1,68 @@
+.cursor {
+    animation: pulse infinite 0.3s alternate-reverse;
+}
+
+.userInput {
+    color:yellow;
+    font-size:52px;
+}
+
+.options {
+    display: flex;
+    gap: 10;
+    justify-content: space-around;
+    font-size: 30px;
+    flex-wrap: wrap;
+    flex:1;
+}
+.options > div {
+    padding: 20px;
+}
+
+
+.numpadKey {
+    background-color: yellow;
+    color:black;
+    padding: 2px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 5px;
+    font-weight: bold;
+    font-size:0.7em
+}
+
+.correct, .incorrect {
+    padding: 5px 10px;
+    color: white;
+    font-size: 1.9em;
+}
+.correct { background-color: green;}
+.incorrect { background-color: red;}
+
+.hanzi {
+    font-size: 180px; 
+    margin: 2px; 
+    background-color: #FBF5B7;
+    background:linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);
+    font-weight: bold;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.example {
+    border: 1px dashed yellow;
+    padding: 20px; 
+    font-size: 0.5em;
+}
+
+:global(.mdUp) { 
+    .example { 
+        font-size: 1em;
+    }
+}
+
+
+@keyframes pulse {
+    from {opacity: 1;} 
+    to {opacity: 0;} 
+  }
