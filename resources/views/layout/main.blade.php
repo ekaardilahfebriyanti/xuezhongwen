@@ -28,7 +28,9 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg">
       <div class="container position-relative">
+        <a class="text-decoration-none" href="{{ url('/') }}">
         <img src="{{ asset('img/logo.png') }}" alt="Logo" class="navbar-logo">
+        </a>
         <a class="navbar-brand" href="{{ url('/') }}">
           Xue ZhongWen
         </a>

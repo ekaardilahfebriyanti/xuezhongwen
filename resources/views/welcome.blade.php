@@ -53,42 +53,52 @@
       
       <!-- Listening -->
       <div class="col-md-6" id="listening">
-        <div class="card p-4 text-center h-100">
-          <h3>🎧 Listening</h3>
-          <p>Latih kemampuan mendengarkan dengan contoh audio asli bahasa Mandarin.</p>
-        </div>
+        <a href="{{ url('/listening') }}" class="text-decoration-none">
+          <div class="card p-4 text-center h-100">
+            <h3>🎧 Listening</h3>
+            <p>Latih kemampuan mendengarkan dengan contoh audio asli bahasa Mandarin.</p>
+          </div>
+        </a>
       </div>
 
       <!-- Speaking -->
       <div class="col-md-6" id="speaking">
-        <div class="card p-4 text-center h-100">
-          <h3>🗣️ Speaking</h3>
-          <p>Tingkatkan pengucapan dengan latihan berbicara dan percakapan.</p>
-        </div>
+        <a href="{{ url('/speaking') }}" class="text-decoration-none">
+          <div class="card p-4 text-center h-100">
+            <h3>🗣️ Speaking</h3>
+            <p>Tingkatkan pengucapan dengan latihan berbicara dan percakapan.</p>
+          </div>
+        </a>
       </div>
 
       <!-- Reading -->
       <div class="col-md-6" id="reading">
-        <div class="card p-4 text-center h-100">
-          <h3>📖 Reading</h3>
-          <p>Baca teks Mandarin dari tingkat sederhana hingga lanjutan dengan pinyin dan terjemahan.</p>
-        </div>
+        <a href="{{ url('/book') }}" class="text-decoration-none">
+          <div class="card p-4 text-center h-100">
+            <h3>📖 Reading</h3>
+            <p>Baca teks Mandarin dari tingkat sederhana hingga lanjutan dengan pinyin dan terjemahan.</p>
+          </div>
+        </a>
       </div>
 
       <!-- Writing -->
       <div class="col-md-6" id="writing">
-        <div class="card p-4 text-center h-100">
-          <h3>Writing</h3>
-          <p>Pelajari cara menulis karakter Hanzi langkah demi langkah dengan urutan goresan.</p>
-        </div>
+        <a href="{{ url('/write-pinyin') }}" class="text-decoration-none">
+          <div class="card p-4 text-center h-100">
+            <h3>Writing</h3>
+            <p>Pelajari cara menulis karakter Hanzi langkah demi langkah dengan urutan goresan.</p>
+          </div>
+        </a>
       </div>
 
       <!-- Test & Quiz -->
       <div class="col-md-12" id="test">
-        <div class="card p-4 text-center h-100">
-          <h3>📝 Tes & Kuis</h3>
-          <p>Tantang dirimu dengan kuis interaktif dan flashcard.</p>
-        </div>
+        <a href="{{ url('/quiz') }}" class="text-decoration-none">
+          <div class="card p-4 text-center h-100">
+            <h3>📝 Tes & Kuis</h3>
+            <p>Tantang dirimu dengan kuis interaktif dan flashcard.</p>
+          </div>
+        </a>
       </div>
       
     </div>
