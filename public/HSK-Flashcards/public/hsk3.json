@@ -1,0 +1,674 @@
+[
+ {
+  "other": "阿姨",
+  "pinyin": "ā yí",
+  "english": "maternal aunt",
+  "indonesia": "bibi (dari pihak ibu); sapaan untuk wanita sebaya ibu"
+ },
+ {
+  "other": "啊",
+  "pinyin": "a",
+  "english": "modal particle ending sentence",
+  "indonesia": "partikel seru/tanya/setuju"
+ },
+ {
+  "other": "矮",
+  "pinyin": "ǎi",
+  "english": "low",
+  "indonesia": "pendek/rendah"
+ },
+ {
+  "other": "爱好",
+  "pinyin": "ài hào",
+  "english": "to like",
+  "indonesia": "hobi; menyukai"
+ },
+ {
+  "other": "安静",
+  "pinyin": "ān jìng",
+  "english": "quiet",
+  "indonesia": "tenang/sunyi"
+ },
+ {
+  "other": "把",
+  "pinyin": "bǎ",
+  "english": "to hold",
+  "indonesia": "memegang; partikel objek"
+ },
+ {
+  "other": "搬",
+  "pinyin": "bān",
+  "english": "to move",
+  "indonesia": "memindahkan; pindah"
+ },
+ {
+  "other": "班",
+  "pinyin": "bān",
+  "english": "team",
+  "indonesia": "kelas; tim"
+ },
+ {
+  "other": "半",
+  "pinyin": "bàn",
+  "english": "half",
+  "indonesia": "setengah"
+ },
+ {
+  "other": "办法",
+  "pinyin": "bàn fǎ",
+  "english": "means",
+  "indonesia": "cara; solusi"
+ },
+ {
+  "other": "办公室",
+  "pinyin": "bàn gōng shì",
+  "english": "office",
+  "indonesia": "kantor"
+ },
+ {
+  "other": "帮忙",
+  "pinyin": "bāng máng",
+  "english": "to help",
+  "indonesia": "membantu"
+ },
+ {
+  "other": "包",
+  "pinyin": "bāo",
+  "english": "to cover",
+  "indonesia": "bungkus/tas/kantong"
+ },
+ {
+  "other": "饱",
+  "pinyin": "bǎo",
+  "english": "to eat till full",
+  "indonesia": "kenyang"
+ },
+ {
+  "other": "北方",
+  "pinyin": "běi fāng",
+  "english": "north",
+  "indonesia": "utara"
+ },
+ {
+  "other": "被",
+  "pinyin": "bèi",
+  "english": "quilt",
+  "indonesia": "selimut; partikel pasif (oleh)"
+ },
+ {
+  "other": "鼻子",
+  "pinyin": "bí zi",
+  "english": "nose",
+  "indonesia": "hidung"
+ },
+ {
+  "other": "比较",
+  "pinyin": "bǐ jiào",
+  "english": "to compare",
+  "indonesia": "membandingkan; relatif/cukup"
+ },
+ {
+  "other": "比赛",
+  "pinyin": "bǐ sài",
+  "english": "competition (sports etc)",
+  "indonesia": "pertandingan/kompetisi"
+ },
+ {
+  "other": "必须",
+  "pinyin": "bì xū",
+  "english": "to have to",
+  "indonesia": "harus"
+ },
+ {
+  "other": "变化",
+  "pinyin": "biàn huà",
+  "english": "change",
+  "indonesia": "perubahan; berubah"
+ },
+ {
+  "other": "表示",
+  "pinyin": "biǎo shì",
+  "english": "to express",
+  "indonesia": "menunjukkan/mengungkapkan"
+ },
+ {
+  "other": "表演",
+  "pinyin": "biǎo yǎn",
+  "english": "play",
+  "indonesia": "pertunjukan; berakting"
+ },
+ {
+  "other": "别人",
+  "pinyin": "bié ren",
+  "english": "other people",
+  "indonesia": "orang lain"
+ },
+ {
+  "other": "宾馆",
+  "pinyin": "bīn guǎn",
+  "english": "guesthouse",
+  "indonesia": "hotel/penginapan"
+ },
+ {
+  "other": "冰箱",
+  "pinyin": "bīng xiāng",
+  "english": "icebox",
+  "indonesia": "kulkas/lemari es"
+ },
+ {
+  "other": "才",
+  "pinyin": "cái",
+  "english": "a moment ago",
+  "indonesia": "baru saja; baru (menekankan keterlambatan/kesulitan)"
+ },
+ {
+  "other": "菜单",
+  "pinyin": "cài dān",
+  "english": "menu",
+  "indonesia": "menu"
+ },
+ {
+  "other": "参加",
+  "pinyin": "cān jiā",
+  "english": "to participate",
+  "indonesia": "ikut serta/berpartisipasi"
+ },
+ {
+  "other": "草",
+  "pinyin": "cǎo",
+  "english": "grass",
+  "indonesia": "rumput"
+ },
+ {
+  "other": "层",
+  "pinyin": "céng",
+  "english": "layer",
+  "indonesia": "lapisan; lantai (kata satuan)"
+ },
+ {
+  "other": "差",
+  "pinyin": "chà",
+  "english": "to differ from",
+  "indonesia": "kurang (dari); buruk; selisih"
+ },
+ {
+  "other": "超市",
+  "pinyin": "chāo shì",
+  "english": "supermarket (abbr.)",
+  "indonesia": "supermarket"
+ },
+ {
+  "other": "衬衫",
+  "pinyin": "chèn shān",
+  "english": "shirt",
+  "indonesia": "kemeja"
+ },
+ {
+  "other": "成绩",
+  "pinyin": "chéng jì",
+  "english": "achievement",
+  "indonesia": "nilai/prestasi"
+ },
+ {
+  "other": "城市",
+  "pinyin": "chéng shì",
+  "english": "city",
+  "indonesia": "kota"
+ },
+ {
+  "other": "迟到",
+  "pinyin": "chí dào",
+  "english": "to arrive late",
+  "indonesia": "datang terlambat"
+ },
+ {
+  "other": "出现",
+  "pinyin": "chū xiàn",
+  "english": "to appear",
+  "indonesia": "muncul; terjadi"
+ },
+ {
+  "other": "除了",
+  "pinyin": "chú le",
+  "english": "besides",
+  "indonesia": "kecuali; selain"
+ },
+ {
+  "other": "厨房",
+  "pinyin": "chú fáng",
+  "english": "kitchen",
+  "indonesia": "dapur"
+ },
+ {
+  "other": "春",
+  "pinyin": "chūn",
+  "english": "spring (time)",
+  "indonesia": "musim semi"
+ },
+ {
+  "other": "词语",
+  "pinyin": "cí yǔ",
+  "english": "word (general term including monosyllables through to short phrases)",
+  "indonesia": "kata/frasa"
+ },
+ {
+  "other": "聪明",
+  "pinyin": "cōng ming",
+  "english": "acute (of sight and hearing)",
+  "indonesia": "cerdas/pintar"
+ },
+ {
+  "other": "打扫",
+  "pinyin": "dǎ sǎo",
+  "english": "to clean",
+  "indonesia": "membersihkan"
+ },
+ {
+  "other": "打算",
+  "pinyin": "dǎ suàn",
+  "english": "to plan",
+  "indonesia": "berencana; rencana"
+ },
+ {
+  "other": "带",
+  "pinyin": "dài",
+  "english": "band",
+  "indonesia": "membawa; sabuk/ikat pinggang"
+ },
+ {
+  "other": "担心",
+  "pinyin": "dān xīn",
+  "english": "anxious",
+  "indonesia": "khawatir"
+ },
+ {
+  "other": "蛋糕",
+  "pinyin": "dàn gāo",
+  "english": "cake",
+  "indonesia": "kue"
+ },
+ {
+  "other": "当然",
+  "pinyin": "dāng rán",
+  "english": "only natural",
+  "indonesia": "tentu saja"
+ },
+ {
+  "other": "地",
+  "pinyin": "de",
+  "english": "-ly",
+  "indonesia": "partikel yang mengubah kata sifat menjadi kata keterangan"
+ },
+ {
+  "other": "灯",
+  "pinyin": "dēng",
+  "english": "lamp",
+  "indonesia": "lampu"
+ },
+ {
+  "other": "低",
+  "pinyin": "dī",
+  "english": "low",
+  "indonesia": "rendah"
+ },
+ {
+  "other": "地方",
+  "pinyin": "dì fang",
+  "english": "area",
+  "indonesia": "tempat"
+ },
+ {
+  "other": "地铁",
+  "pinyin": "dì tiě",
+  "english": "subway",
+  "indonesia": "kereta bawah tanah/subway"
+ },
+ {
+  "other": "地图",
+  "pinyin": "dì tú",
+  "english": "map",
+  "indonesia": "peta"
+ },
+ {
+  "other": "电梯",
+  "pinyin": "diàn tī",
+  "english": "elevator",
+  "indonesia": "lift/elevator"
+ },
+ {
+  "other": "电子",
+  "pinyin": "diàn zǐ",
+  "english": "electronic",
+  "indonesia": "elektronik"
+ },
+ {
+  "other": "冬",
+  "pinyin": "dōng",
+  "english": "sound of beating a drum",
+  "indonesia": "musim dingin"
+ },
+ {
+  "other": "东",
+  "pinyin": "dōng",
+  "english": "east",
+  "indonesia": "timur"
+ },
+ {
+  "other": "动物",
+  "pinyin": "dòng wù",
+  "english": "animal",
+  "indonesia": "hewan/binatang"
+ },
+ {
+  "other": "短",
+  "pinyin": "duǎn",
+  "english": "short or brief",
+  "indonesia": "pendek"
+ },
+ {
+  "other": "段",
+  "pinyin": "duàn",
+  "english": "paragraph",
+  "indonesia": "bagian/segmen (kata satuan)"
+ },
+ {
+  "other": "锻炼",
+  "pinyin": "duàn liàn",
+  "english": "to engage in physical exercise",
+  "indonesia": "berolahraga"
+ },
+ {
+  "other": "多么",
+  "pinyin": "duō me",
+  "english": "how (wonderful etc)",
+  "indonesia": "betapa/alangkah"
+ },
+ {
+  "other": "饿",
+  "pinyin": "è",
+  "english": "to be hungry",
+  "indonesia": "lapar"
+ },
+ {
+  "other": "而且",
+  "pinyin": "ér qiě",
+  "english": "(not only ...) but also",
+  "indonesia": "selain itu; apalagi"
+ },
+ {
+  "other": "耳朵",
+  "pinyin": "ěr duo",
+  "english": "ear",
+  "indonesia": "telinga"
+ },
+ {
+  "other": "发烧",
+  "pinyin": "fā shāo",
+  "english": "to have a high temperature (from illness)",
+  "indonesia": "demam"
+ },
+ {
+  "other": "发现",
+  "pinyin": "fā xiàn",
+  "english": "to find",
+  "indonesia": "menemukan/menyadari"
+ },
+ {
+  "other": "方便",
+  "pinyin": "fāng biàn",
+  "english": "convenient",
+  "indonesia": "nyaman/praktis"
+ },
+ {
+  "other": "放",
+  "pinyin": "fàng",
+  "english": "to release",
+  "indonesia": "meletakkan; melepaskan"
+ },
+ {
+  "other": "放心",
+  "pinyin": "fàng xīn",
+  "english": "to feel relieved",
+  "indonesia": "lega; tidak khawatir"
+ },
+ {
+  "other": "分",
+  "pinyin": "fēn",
+  "english": "to divide",
+  "indonesia": "membagi; poin; sen (mata uang)"
+ },
+ {
+  "other": "附近",
+  "pinyin": "fù jìn",
+  "english": "(in the) vicinity",
+  "indonesia": "sekitar/dekat sini"
+ },
+ {
+  "other": "复习",
+  "pinyin": "fù xí",
+  "english": "variant of 復習|复习",
+  "indonesia": "mengulas/merevisi"
+ },
+ {
+  "other": "干净",
+  "pinyin": "gān jìng",
+  "english": "clean",
+  "indonesia": "bersih"
+ },
+ {
+  "other": "敢",
+  "pinyin": "gǎn",
+  "english": "to dare",
+  "indonesia": "berani"
+ },
+ {
+  "other": "感冒",
+  "pinyin": "gǎn mào",
+  "english": "to catch cold",
+  "indonesia": "flu/masuk angin"
+ },
+ {
+  "other": "刚才",
+  "pinyin": "gāng cái",
+  "english": "(just) a moment ago",
+  "indonesia": "baru saja"
+ },
+ {
+  "other": "根据",
+  "pinyin": "gēn jù",
+  "english": "according to",
+  "indonesia": "berdasarkan"
+ },
+ {
+  "other": "跟",
+  "pinyin": "gēn",
+  "english": "heel",
+  "indonesia": "dengan; mengikuti"
+ },
+ {
+  "other": "更",
+  "pinyin": "gèng",
+  "english": "more",
+  "indonesia": "lebih"
+ },
+ {
+  "other": "公园",
+  "pinyin": "gōng yuán",
+  "english": "public park",
+  "indonesia": "taman/kebun umum"
+ },
+ {
+  "other": "故事",
+  "pinyin": "gù shi",
+  "english": "narrative",
+  "indonesia": "cerita/kisah"
+ },
+ {
+  "other": "刮",
+  "pinyin": "guā",
+  "english": "to blow (of the wind)",
+  "indonesia": "menghembus (angin)"
+ },
+ {
+  "other": "关",
+  "pinyin": "guān",
+  "english": "mountain pass",
+  "indonesia": "menutup; mematikan"
+ },
+ {
+  "other": "关系",
+  "pinyin": "guān xì",
+  "english": "variant of 關係|关系[guān xì]",
+  "indonesia": "hubungan"
+ },
+ {
+  "other": "关心",
+  "pinyin": "guān xīn",
+  "english": "to care for sth",
+  "indonesia": "peduli"
+ },
+ {
+  "other": "关于",
+  "pinyin": "guān yú",
+  "english": "pertaining to",
+  "indonesia": "tentang"
+ },
+ {
+  "other": "国家",
+  "pinyin": "guó jiā",
+  "english": "country",
+  "indonesia": "negara"
+ },
+ {
+  "other": "果汁",
+  "pinyin": "guǒ zhī",
+  "english": "fruit juice",
+  "indonesia": "jus buah"
+ },
+ {
+  "other": "过去",
+  "pinyin": "guò qu",
+  "english": "(in the) past",
+  "indonesia": "masa lalu; lewat"
+ },
+ {
+  "other": "还是",
+  "pinyin": "hái shi",
+  "english": "or",
+  "indonesia": "atau (dalam pertanyaan/pilihan)"
+ },
+ {
+  "other": "害怕",
+  "pinyin": "hài pà",
+  "english": "to be afraid",
+  "indonesia": "takut"
+ },
+ {
+  "other": "河",
+  "pinyin": "hé",
+  "english": "river",
+  "indonesia": "sungai"
+ },
+ {
+  "other": "黑板",
+  "pinyin": "hēi bǎn",
+  "english": "blackboard",
+  "indonesia": "papan tulis"
+ },
+ {
+  "other": "护照",
+  "pinyin": "hù zhào",
+  "english": "passport",
+  "indonesia": "paspor"
+ },
+ {
+  "other": "花",
+  "pinyin": "huā",
+  "english": "flower",
+  "indonesia": "bunga; menghabiskan (uang/waktu)"
+ },
+ {
+  "other": "花园",
+  "pinyin": "huā yuán",
+  "english": "garden",
+  "indonesia": "taman/kebun"
+ },
+ {
+  "other": "画",
+  "pinyin": "huà",
+  "english": "to draw",
+  "indonesia": "melukis; gambar/lukisan"
+ },
+ {
+  "other": "坏",
+  "pinyin": "huài",
+  "english": "bad",
+  "indonesia": "rusak; buruk"
+ },
+ {
+  "other": "环境",
+  "pinyin": "huán jìng",
+  "english": "environment",
+  "indonesia": "lingkungan"
+ },
+ {
+  "other": "换",
+  "pinyin": "huàn",
+  "english": "to change",
+  "indonesia": "menukar/mengganti"
+ },
+ {
+  "other": "黄",
+  "pinyin": "huáng",
+  "english": "yellow",
+  "indonesia": "kuning"
+ },
+ {
+  "other": "会议",
+  "pinyin": "huì yì",
+  "english": "meeting",
+  "indonesia": "rapat/pertemuan"
+ },
+ {
+  "other": "或者",
+  "pinyin": "huò zhě",
+  "english": "or",
+  "indonesia": "atau (dalam pernyataan)"
+ },
+ {
+  "other": "机会",
+  "pinyin": "jī huì",
+  "english": "opportunity",
+  "indonesia": "kesempatan/peluang"
+ },
+ {
+  "other": "几乎",
+  "pinyin": "jī hū",
+  "english": "almost",
+  "indonesia": "hampir"
+ },
+ {
+  "other": "极",
+  "pinyin": "jí",
+  "english": "extremely",
+  "indonesia": "sangat/sekali"
+ },
+ {
+  "other": "记得",
+  "pinyin": "jì de",
+  "english": "to remember",
+  "indonesia": "mengingat"
+ },
+ {
+  "other": "季节",
+  "pinyin": "jì jié",
+  "english": "time",
+  "indonesia": "musim"
+ },
+ {
+  "other": "检查",
+  "pinyin": "jiǎn chá",
+  "english": "inspection",
+  "indonesia": "memeriksa/inspeksi"
+ }
+]

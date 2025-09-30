@@ -1,0 +1,686 @@
+[
+ {
+  "other": "吧",
+  "pinyin": "ba",
+  "english": "(modal particle indicating suggestion or surmise)",
+  "indonesia": "partikel saran/ajakan (yuk, kan)"
+ },
+ {
+  "other": "白",
+  "pinyin": "bái",
+  "english": "white",
+  "indonesia": "putih"
+ },
+ {
+  "other": "百",
+  "pinyin": "bǎi",
+  "english": "hundred",
+  "indonesia": "seratus"
+ },
+ {
+  "other": "帮助",
+  "pinyin": "bāng zhù",
+  "english": "assistance",
+  "indonesia": "membantu; bantuan"
+ },
+ {
+  "other": "报纸",
+  "pinyin": "bào zhǐ",
+  "english": "newspaper",
+  "indonesia": "koran/surat kabar"
+ },
+ {
+  "other": "比",
+  "pinyin": "bǐ",
+  "english": "(particle used for comparison and \"-er than\")",
+  "indonesia": "daripada (perbandingan)"
+ },
+ {
+  "other": "别",
+  "pinyin": "bié",
+  "english": "to leave",
+  "indonesia": "jangan; pergi"
+ },
+ {
+  "other": "长",
+  "pinyin": "cháng",
+  "english": "length",
+  "indonesia": "panjang"
+ },
+ {
+  "other": "唱歌",
+  "pinyin": "chàng gē",
+  "english": "to sing a song",
+  "indonesia": "bernyanyi"
+ },
+ {
+  "other": "出",
+  "pinyin": "chū",
+  "english": "to go out",
+  "indonesia": "keluar"
+ },
+ {
+  "other": "穿",
+  "pinyin": "chuān",
+  "english": "to bore through",
+  "indonesia": "memakai/mengenakan (pakaian)"
+ },
+ {
+  "other": "船",
+  "pinyin": "chuán",
+  "english": "a boat",
+  "indonesia": "perahu/kapal"
+ },
+ {
+  "other": "次",
+  "pinyin": "cì",
+  "english": "next in sequence",
+  "indonesia": "kali (kata satuan)"
+ },
+ {
+  "other": "从",
+  "pinyin": "cóng",
+  "english": "from",
+  "indonesia": "dari"
+ },
+ {
+  "other": "错",
+  "pinyin": "cuò",
+  "english": "mistake",
+  "indonesia": "salah"
+ },
+ {
+  "other": "打篮球",
+  "pinyin": "dá lán qiú",
+  "english": "Play basketball",
+  "indonesia": "bermain bola basket"
+ },
+ {
+  "other": "大家",
+  "pinyin": "dà jiā",
+  "english": "everyone",
+  "indonesia": "semua orang"
+ },
+ {
+  "other": "但是",
+  "pinyin": "dàn shì",
+  "english": "but",
+  "indonesia": "tapi/namun"
+ },
+ {
+  "other": "到",
+  "pinyin": "dào",
+  "english": "to (a place)",
+  "indonesia": "sampai (tiba di)"
+ },
+ {
+  "other": "得",
+  "pinyin": "de",
+  "english": "structural particle: used after a verb (or adjective as main verb)",
+  "indonesia": "partikel yang menghubungkan kata kerja dan pelengkap"
+ },
+ {
+  "other": "得",
+  "pinyin": "děi",
+  "english": "to have to",
+  "indonesia": "harus"
+ },
+ {
+  "other": "弟弟",
+  "pinyin": "dì di",
+  "english": "younger brother",
+  "indonesia": "adik laki-laki"
+ },
+ {
+  "other": "第一",
+  "pinyin": "dì yī",
+  "english": "first",
+  "indonesia": "yang pertama"
+ },
+ {
+  "other": "懂",
+  "pinyin": "dǒng",
+  "english": "to understand",
+  "indonesia": "mengerti/memahami"
+ },
+ {
+  "other": "房间",
+  "pinyin": "fáng jiān",
+  "english": "room",
+  "indonesia": "kamar/ruangan"
+ },
+ {
+  "other": "非常",
+  "pinyin": "fēi cháng",
+  "english": "unusual",
+  "indonesia": "sangat/sekali"
+ },
+ {
+  "other": "服务员",
+  "pinyin": "fú wù yuán",
+  "english": "waiter",
+  "indonesia": "pelayan"
+ },
+ {
+  "other": "高",
+  "pinyin": "gāo",
+  "english": "high",
+  "indonesia": "tinggi"
+ },
+ {
+  "other": "告诉",
+  "pinyin": "gào su",
+  "english": "to tell",
+  "indonesia": "memberi tahu/mengatakan"
+ },
+ {
+  "other": "哥哥",
+  "pinyin": "gē ge",
+  "english": "older brother",
+  "indonesia": "kakak laki-laki"
+ },
+ {
+  "other": "给",
+  "pinyin": "gěi",
+  "english": "to",
+  "indonesia": "memberi"
+ },
+ {
+  "other": "公共汽车",
+  "pinyin": "gōng gòng qì chē",
+  "english": "bus",
+  "indonesia": "bus umum"
+ },
+ {
+  "other": "公斤",
+  "pinyin": "gōng jīn",
+  "english": "kilogram (kg)",
+  "indonesia": "kilogram"
+ },
+ {
+  "other": "公司",
+  "pinyin": "gōng sī",
+  "english": "(business) company",
+  "indonesia": "perusahaan"
+ },
+ {
+  "other": "贵",
+  "pinyin": "guì",
+  "english": "expensive",
+  "indonesia": "mahal"
+ },
+ {
+  "other": "还",
+  "pinyin": "hái",
+  "english": "still",
+  "indonesia": "masih; juga"
+ },
+ {
+  "other": "孩子",
+  "pinyin": "hái zi",
+  "english": "child",
+  "indonesia": "anak"
+ },
+ {
+  "other": "好吃",
+  "pinyin": "hǎo chī",
+  "english": "tasty",
+  "indonesia": "enak (rasa)"
+ },
+ {
+  "other": "号",
+  "pinyin": "hào",
+  "english": "ordinal number",
+  "indonesia": "nomor; tanggal (bulan)"
+ },
+ {
+  "other": "黑",
+  "pinyin": "hēi",
+  "english": "black",
+  "indonesia": "hitam"
+ },
+ {
+  "other": "红",
+  "pinyin": "hóng",
+  "english": "red",
+  "indonesia": "merah"
+ },
+ {
+  "other": "欢迎",
+  "pinyin": "huān yíng",
+  "english": "to welcome",
+  "indonesia": "menyambut"
+ },
+ {
+  "other": "还",
+  "pinyin": "huán",
+  "english": "to pay back",
+  "indonesia": "mengembalikan/membayar kembali"
+ },
+ {
+  "other": "回答",
+  "pinyin": "huí dá",
+  "english": "to reply",
+  "indonesia": "menjawab/jawaban"
+ },
+ {
+  "other": "机场",
+  "pinyin": "jī chǎng",
+  "english": "airport",
+  "indonesia": "bandara"
+ },
+ {
+  "other": "鸡蛋",
+  "pinyin": "jī dàn",
+  "english": "(chicken) egg",
+  "indonesia": "telur ayam"
+ },
+ {
+  "other": "件",
+  "pinyin": "jiàn",
+  "english": "item",
+  "indonesia": "potong/buah (kata satuan untuk pakaian)"
+ },
+ {
+  "other": "教室",
+  "pinyin": "jiào shì",
+  "english": "classroom",
+  "indonesia": "ruang kelas"
+ },
+ {
+  "other": "姐姐",
+  "pinyin": "jiě jie",
+  "english": "older sister",
+  "indonesia": "kakak perempuan"
+ },
+ {
+  "other": "介绍",
+  "pinyin": "jiè shào",
+  "english": "to introduce (sb to sb)",
+  "indonesia": "memperkenalkan"
+ },
+ {
+  "other": "进",
+  "pinyin": "jìn",
+  "english": "to advance",
+  "indonesia": "masuk"
+ },
+ {
+  "other": "近",
+  "pinyin": "jìn",
+  "english": "near",
+  "indonesia": "dekat"
+ },
+ {
+  "other": "就",
+  "pinyin": "jiù",
+  "english": "at once",
+  "indonesia": "langsung; segera"
+ },
+ {
+  "other": "觉得",
+  "pinyin": "jué de",
+  "english": "to think",
+  "indonesia": "merasa/berpikir"
+ },
+ {
+  "other": "咖啡",
+  "pinyin": "kā fēi",
+  "english": "coffee",
+  "indonesia": "kopi"
+ },
+ {
+  "other": "开始",
+  "pinyin": "kāi shǐ",
+  "english": "to begin",
+  "indonesia": "mulai"
+ },
+ {
+  "other": "考试",
+  "pinyin": "kǎo shì",
+  "english": "to take an exam",
+  "indonesia": "ujian"
+ },
+ {
+  "other": "可能",
+  "pinyin": "kě néng",
+  "english": "might (happen)",
+  "indonesia": "mungkin"
+ },
+ {
+  "other": "可以",
+  "pinyin": "kě yǐ",
+  "english": "can",
+  "indonesia": "boleh/bisa"
+ },
+ {
+  "other": "课",
+  "pinyin": "kè",
+  "english": "subject",
+  "indonesia": "pelajaran/kelas"
+ },
+ {
+  "other": "快",
+  "pinyin": "kuài",
+  "english": "rapid",
+  "indonesia": "cepat"
+ },
+ {
+  "other": "快乐",
+  "pinyin": "kuài lè",
+  "english": "happy",
+  "indonesia": "senang/bahagia"
+ },
+ {
+  "other": "累",
+  "pinyin": "lèi",
+  "english": "tired",
+  "indonesia": "lelah"
+ },
+ {
+  "other": "离",
+  "pinyin": "lí",
+  "english": "to leave",
+  "indonesia": "dari (menunjukkan jarak)"
+ },
+ {
+  "other": "两",
+  "pinyin": "liǎng",
+  "english": "both",
+  "indonesia": "dua (sepasang/jumlah)"
+ },
+ {
+  "other": "路",
+  "pinyin": "lù",
+  "english": "road",
+  "indonesia": "jalan"
+ },
+ {
+  "other": "旅游",
+  "pinyin": "lǚ yóu",
+  "english": "trip",
+  "indonesia": "berwisata/traveling"
+ },
+ {
+  "other": "卖",
+  "pinyin": "mài",
+  "english": "to sell",
+  "indonesia": "menjual"
+ },
+ {
+  "other": "慢",
+  "pinyin": "màn",
+  "english": "slow",
+  "indonesia": "lambat"
+ },
+ {
+  "other": "忙",
+  "pinyin": "máng",
+  "english": "busy",
+  "indonesia": "sibuk"
+ },
+ {
+  "other": "每",
+  "pinyin": "měi",
+  "english": "each",
+  "indonesia": "setiap"
+ },
+ {
+  "other": "妹妹",
+  "pinyin": "mèi mei",
+  "english": "younger sister",
+  "indonesia": "adik perempuan"
+ },
+ {
+  "other": "门",
+  "pinyin": "mén",
+  "english": "gate",
+  "indonesia": "pintu/gerbang"
+ },
+ {
+  "other": "男人",
+  "pinyin": "nán rén",
+  "english": "a man",
+  "indonesia": "pria/laki-laki"
+ },
+ {
+  "other": "您",
+  "pinyin": "nín",
+  "english": "you (courteous",
+  "indonesia": "Anda (bentuk hormat)"
+ },
+ {
+  "other": "牛奶",
+  "pinyin": "niú nǎi",
+  "english": "cow's milk",
+  "indonesia": "susu sapi"
+ },
+ {
+  "other": "女人",
+  "pinyin": "nǚ rén",
+  "english": "woman",
+  "indonesia": "wanita/perempuan"
+ },
+ {
+  "other": "旁边",
+  "pinyin": "páng biān",
+  "english": "lateral",
+  "indonesia": "di samping"
+ },
+ {
+  "other": "跑步",
+  "pinyin": "pǎo bù",
+  "english": "to walk quickly",
+  "indonesia": "berlari"
+ },
+ {
+  "other": "便宜",
+  "pinyin": "pián yi",
+  "english": "small advantages",
+  "indonesia": "murah"
+ },
+ {
+  "other": "票",
+  "pinyin": "piào",
+  "english": "ticket",
+  "indonesia": "tiket/karcis"
+ },
+ {
+  "other": "妻子",
+  "pinyin": "qī zi",
+  "english": "wife",
+  "indonesia": "istri"
+ },
+ {
+  "other": "起床",
+  "pinyin": "qǐ chuáng",
+  "english": "to get out of bed",
+  "indonesia": "bangun dari tidur"
+ },
+ {
+  "other": "千",
+  "pinyin": "qiān",
+  "english": "a swing",
+  "indonesia": "seribu"
+ },
+ {
+  "other": "晴",
+  "pinyin": "qíng",
+  "english": "clear",
+  "indonesia": "cerah (cuaca)"
+ },
+ {
+  "other": "去年",
+  "pinyin": "qù nián",
+  "english": "last year",
+  "indonesia": "tahun lalu"
+ },
+ {
+  "other": "让",
+  "pinyin": "ràng",
+  "english": "to yield",
+  "indonesia": "membiarkan/mengizinkan"
+ },
+ {
+  "other": "上班",
+  "pinyin": "shàng bān",
+  "english": "to go to work",
+  "indonesia": "pergi kerja/masuk kerja"
+ },
+ {
+  "other": "身体",
+  "pinyin": "shēn tǐ",
+  "english": "(human) body",
+  "indonesia": "tubuh/kesehatan"
+ },
+ {
+  "other": "生病",
+  "pinyin": "shēng bìng",
+  "english": "to fall ill",
+  "indonesia": "sakit"
+ },
+ {
+  "other": "生日",
+  "pinyin": "shēng rì",
+  "english": "birthday",
+  "indonesia": "ulang tahun"
+ },
+ {
+  "other": "时间",
+  "pinyin": "shí jiān",
+  "english": "time",
+  "indonesia": "waktu"
+ },
+ {
+  "other": "事情",
+  "pinyin": "shì qing",
+  "english": "affair",
+  "indonesia": "masalah/urusan"
+ },
+ {
+  "other": "手表",
+  "pinyin": "shǒu biǎo",
+  "english": "wrist watch",
+  "indonesia": "jam tangan"
+ },
+ {
+  "other": "手机",
+  "pinyin": "shǒu jī",
+  "english": "cell phone",
+  "indonesia": "ponsel/handphone"
+ },
+ {
+  "other": "送",
+  "pinyin": "sòng",
+  "english": "to deliver",
+  "indonesia": "memberi (hadiah); mengantar"
+ },
+ {
+  "other": "所以",
+  "pinyin": "suǒ yǐ",
+  "english": "therefore",
+  "indonesia": "oleh karena itu"
+ },
+ {
+  "other": "它",
+  "pinyin": "tā",
+  "english": "it",
+  "indonesia": "dia (benda/hewan)"
+ },
+ {
+  "other": "踢",
+  "pinyin": "tī",
+  "english": "to kick",
+  "indonesia": "menendang"
+ },
+ {
+  "other": "题",
+  "pinyin": "tí",
+  "english": "topic",
+  "indonesia": "soal (pertanyaan)"
+ },
+ {
+  "other": "跳舞",
+  "pinyin": "tiào wǔ",
+  "english": "to dance",
+  "indonesia": "menari"
+ },
+ {
+  "other": "外",
+  "pinyin": "wài",
+  "english": "outside",
+  "indonesia": "luar/di luar"
+ },
+ {
+  "other": "完",
+  "pinyin": "wán",
+  "english": "to finish",
+  "indonesia": "selesai"
+ },
+ {
+  "other": "玩",
+  "pinyin": "wán",
+  "english": "toy",
+  "indonesia": "bermain"
+ },
+ {
+  "other": "晚上",
+  "pinyin": "wǎn shang",
+  "english": "evening",
+  "indonesia": "malam"
+ },
+ {
+  "other": "为",
+  "pinyin": "wèi",
+  "english": "variant of 為|为",
+  "indonesia": "untuk"
+ },
+ {
+  "other": "问",
+  "pinyin": "wèn",
+  "english": "to ask",
+  "indonesia": "bertanya"
+ },
+ {
+  "other": "问题",
+  "pinyin": "wèn tí",
+  "english": "question",
+  "indonesia": "pertanyaan/masalah"
+ },
+ {
+  "other": "西瓜",
+  "pinyin": "xī guā",
+  "english": "watermelon",
+  "indonesia": "semangka"
+ },
+ {
+  "other": "希望",
+  "pinyin": "xī wàng",
+  "english": "to wish for",
+  "indonesia": "berharap/harapan"
+ },
+ {
+  "other": "洗",
+  "pinyin": "xǐ",
+  "english": "to wash",
+  "indonesia": "mencuci"
+ },
+ {
+  "other": "向",
+  "pinyin": "xiàng",
+  "english": "towards",
+  "indonesia": "menuju/kepada"
+ },
+ {
+  "other": "小时",
+  "pinyin": "xiǎo shí",
+  "english": "hour",
+  "indonesia": "jam (durasi waktu)"
+ },
+ {
+  "other": "笑",
+  "pinyin": "xiào",
+  "english": "laugh",
+  "indonesia": "tertawa"
+ }
+]

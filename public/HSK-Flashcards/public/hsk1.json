@@ -1,0 +1,692 @@
+[
+ {
+  "other": "爱",
+  "pinyin": "ài",
+  "english": "to love",
+  "indonesia": "mencintai"
+ },
+ {
+  "other": "八",
+  "pinyin": "bā",
+  "english": "eight",
+  "indonesia": "delapan"
+ },
+ {
+  "other": "爸爸",
+  "pinyin": "bà ba",
+  "english": "(informal) father",
+  "indonesia": "ayah"
+ },
+ {
+  "other": "杯子",
+  "pinyin": "bēi zi",
+  "english": "cup",
+  "indonesia": "cangkir/gelas"
+ },
+ {
+  "other": "北京",
+  "pinyin": "Běi jīng",
+  "english": "Beijing",
+  "indonesia": "Beijing (nama kota)"
+ },
+ {
+  "other": "本",
+  "pinyin": "běn",
+  "english": "roots or stems of plants",
+  "indonesia": "akar/batang; (kata satuan untuk buku)"
+ },
+ {
+  "other": "不客气",
+  "pinyin": "bù kè qi",
+  "english": "you're welcome",
+  "indonesia": "sama-sama"
+ },
+ {
+  "other": "不",
+  "pinyin": "bù",
+  "english": "(negative prefix)",
+  "indonesia": "tidak/bukan"
+ },
+ {
+  "other": "菜",
+  "pinyin": "cài",
+  "english": "dish (type of food)",
+  "indonesia": "sayuran; masakan"
+ },
+ {
+  "other": "茶",
+  "pinyin": "chá",
+  "english": "tea",
+  "indonesia": "teh"
+ },
+ {
+  "other": "吃",
+  "pinyin": "chī",
+  "english": "to eat",
+  "indonesia": "makan"
+ },
+ {
+  "other": "出租车",
+  "pinyin": "chū zū chē",
+  "english": "taxi",
+  "indonesia": "taksi"
+ },
+ {
+  "other": "打电话",
+  "pinyin": "dǎ diàn huà",
+  "english": "to make a telephone call",
+  "indonesia": "menelepon"
+ },
+ {
+  "other": "大",
+  "pinyin": "dà",
+  "english": "big",
+  "indonesia": "besar"
+ },
+ {
+  "other": "的",
+  "pinyin": "de",
+  "english": "of",
+  "indonesia": "milik (partikel kepemilikan)"
+ },
+ {
+  "other": "点",
+  "pinyin": "diǎn",
+  "english": "point",
+  "indonesia": "titik; jam (waktu)"
+ },
+ {
+  "other": "电脑",
+  "pinyin": "diàn nǎo",
+  "english": "computer",
+  "indonesia": "komputer"
+ },
+ {
+  "other": "电视",
+  "pinyin": "diàn shì",
+  "english": "television",
+  "indonesia": "televisi"
+ },
+ {
+  "other": "电影",
+  "pinyin": "diàn yǐng",
+  "english": "movie",
+  "indonesia": "film"
+ },
+ {
+  "other": "东西",
+  "pinyin": "dōng xi",
+  "english": "thing",
+  "indonesia": "barang/benda"
+ },
+ {
+  "other": "都",
+  "pinyin": "dōu",
+  "english": "all",
+  "indonesia": "semua"
+ },
+ {
+  "other": "读",
+  "pinyin": "dú",
+  "english": "to read",
+  "indonesia": "membaca"
+ },
+ {
+  "other": "对不起",
+  "pinyin": "duì bu qǐ",
+  "english": "unworthy",
+  "indonesia": "maaf"
+ },
+ {
+  "other": "多",
+  "pinyin": "duō",
+  "english": "many",
+  "indonesia": "banyak"
+ },
+ {
+  "other": "多少",
+  "pinyin": "duō shao",
+  "english": "how much",
+  "indonesia": "berapa banyak"
+ },
+ {
+  "other": "儿子",
+  "pinyin": "ér zi",
+  "english": "son",
+  "indonesia": "anak laki-laki"
+ },
+ {
+  "other": "二",
+  "pinyin": "èr",
+  "english": "two",
+  "indonesia": "dua"
+ },
+ {
+  "other": "饭馆",
+  "pinyin": "fàn guǎn",
+  "english": "restaurant",
+  "indonesia": "restoran"
+ },
+ {
+  "other": "飞机",
+   "pinyin": "fēi jī",
+  "english": "airplane",
+  "indonesia": "pesawat terbang"
+ },
+ {
+  "other": "分钟",
+  "pinyin": "fēn zhōng",
+  "english": "minute",
+  "indonesia": "menit"
+ },
+ {
+  "other": "高兴",
+  "pinyin": "gāo xìng",
+  "english": "happy",
+  "indonesia": "senang/gembira"
+ },
+ {
+  "other": "个",
+  "pinyin": "gè",
+  "english": "variant of 個|个[gè]",
+  "indonesia": "kata satuan umum"
+ },
+ {
+  "other": "工作",
+  "pinyin": "gōng zuò",
+  "english": "to work",
+  "indonesia": "bekerja; pekerjaan"
+ },
+ {
+  "other": "狗",
+  "pinyin": "gǒu",
+  "english": "dog",
+  "indonesia": "anjing"
+ },
+ {
+  "other": "汉语",
+  "pinyin": "Hàn yǔ",
+  "english": "other language",
+  "indonesia": "bahasa Mandarin/Tiongkok"
+ },
+ {
+  "other": "好",
+  "pinyin": "hǎo",
+  "english": "good",
+  "indonesia": "baik"
+ },
+ {
+  "other": "喝",
+  "pinyin": "hē",
+  "english": "to drink",
+  "indonesia": "minum"
+ },
+ {
+  "other": "和",
+  "pinyin": "hé",
+  "english": "and",
+  "indonesia": "dan"
+ },
+ {
+  "other": "很",
+  "pinyin": "hěn",
+  "english": "(adverb of degree)",
+  "indonesia": "sangat"
+ },
+ {
+  "other": "后面",
+  "pinyin": "hòu mian",
+  "english": "rear",
+  "indonesia": "di belakang"
+ },
+ {
+  "other": "回",
+  "pinyin": "huí",
+  "english": "to curve",
+  "indonesia": "kembali"
+ },
+ {
+  "other": "会",
+  "pinyin": "huì",
+  "english": "can",
+  "indonesia": "bisa/dapat (melakukan)"
+ },
+ {
+  "other": "火车站",
+  "pinyin": "huǒ chē zhàn",
+  "english": "train station",
+  "indonesia": "stasiun kereta api"
+ },
+ {
+  "other": "几",
+  "pinyin": "jǐ",
+  "english": "how much",
+  "indonesia": "berapa (jumlah kecil)"
+ },
+ {
+  "other": "家",
+  "pinyin": "jiā",
+  "english": "home",
+  "indonesia": "rumah"
+ },
+ {
+  "other": "叫",
+  "pinyin": "jiào",
+  "english": "to shout",
+  "indonesia": "memanggil; bernama"
+ },
+ {
+  "other": "今天",
+  "pinyin": "jīn tiān",
+  "english": "today",
+  "indonesia": "hari ini"
+ },
+ {
+  "other": "九",
+  "pinyin": "jiǔ",
+  "english": "nine",
+  "indonesia": "sembilan"
+ },
+ {
+  "other": "开",
+  "pinyin": "kāi",
+  "english": "to open",
+  "indonesia": "membuka; menyalakan; mengemudi"
+ },
+ {
+  "other": "看",
+  "pinyin": "kàn",
+  "english": "to see",
+  "indonesia": "melihat"
+ },
+ {
+  "other": "看见",
+  "pinyin": "kàn jiàn",
+  "english": "to see",
+  "indonesia": "melihat"
+ },
+ {
+  "other": "块",
+  "pinyin": "kuài",
+  "english": "lump (of earth)",
+  "indonesia": "potongan; Kuai (mata uang)"
+ },
+ {
+  "other": "来",
+  "pinyin": "lái",
+  "english": "to come",
+  "indonesia": "datang"
+ },
+ {
+  "other": "老师",
+  "pinyin": "lǎo shī",
+  "english": "teacher",
+  "indonesia": "guru"
+ },
+ {
+  "other": "了",
+  "pinyin": "le",
+  "english": "(modal particle intensifying preceding clause)",
+  "indonesia": "sudah (partikel perubahan/penyelesaian)"
+ },
+ {
+  "other": "冷",
+  "pinyin": "lěng",
+  "english": "cold",
+  "indonesia": "dingin"
+ },
+ {
+  "other": "里",
+  "pinyin": "lǐ",
+  "english": "li (other mile)",
+  "indonesia": "di dalam"
+ },
+ {
+  "other": "零",
+  "pinyin": "líng",
+  "english": "zero",
+  "indonesia": "nol"
+ },
+ {
+  "other": "六",
+  "pinyin": "liù",
+  "english": "six",
+  "indonesia": "enam"
+ },
+ {
+  "other": "妈妈",
+  "pinyin": "mā ma",
+  "english": "mama",
+  "indonesia": "ibu"
+ },
+ {
+  "other": "吗",
+  "pinyin": "ma",
+  "english": "(question tag)",
+  "indonesia": "kah (partikel tanya)"
+ },
+ {
+  "other": "买",
+  "pinyin": "mǎi",
+  "english": "to buy",
+  "indonesia": "membeli"
+ },
+ {
+  "other": "猫",
+  "pinyin": "māo",
+  "english": "cat",
+  "indonesia": "kucing"
+ },
+ {
+  "other": "没",
+  "pinyin": "méi",
+  "english": "(negative prefix for verbs)",
+  "indonesia": "tidak (bentuk lampau/keberadaan)"
+ },
+ {
+  "other": "没关系",
+  "pinyin": "méi guān xi",
+  "english": "it doesn't matter",
+  "indonesia": "tidak masalah"
+ },
+ {
+  "other": "米饭",
+  "pinyin": "mǐ fàn",
+  "english": "(cooked) rice",
+  "indonesia": "nasi"
+ },
+ {
+  "other": "明天",
+  "pinyin": "míng tiān",
+  "english": "tomorrow",
+  "indonesia": "besok"
+ },
+ {
+  "other": "名字",
+  "pinyin": "míng zi",
+  "english": "name (of a person or thing)",
+  "indonesia": "nama"
+ },
+ {
+  "other": "哪",
+  "pinyin": "nǎ",
+  "english": "how",
+  "indonesia": "yang mana"
+ },
+ {
+  "other": "那",
+  "pinyin": "nà",
+  "english": "that",
+  "indonesia": "itu"
+ },
+ {
+  "other": "呢",
+  "pinyin": "ne",
+  "english": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\")",
+  "indonesia": "bagaimana dengan (partikel tanya balik)"
+ },
+ {
+  "other": "能",
+  "pinyin": "néng",
+  "english": "to be able to",
+  "indonesia": "bisa/mampu"
+ },
+ {
+  "other": "你",
+  "pinyin": "nǐ",
+  "english": "you (informal)",
+  "indonesia": "kamu/Anda"
+ },
+ {
+  "other": "年",
+  "pinyin": "nián",
+  "english": "year",
+  "indonesia": "tahun"
+ },
+ {
+  "other": "女儿",
+  "pinyin": "nǚ ér",
+  "english": "daughter",
+  "indonesia": "anak perempuan"
+ },
+ {
+  "other": "朋友",
+  "pinyin": "péng you",
+  "english": "friend",
+  "indonesia": "teman"
+ },
+ {
+  "other": "漂亮",
+  "pinyin": "piào liang",
+  "english": "pretty",
+  "indonesia": "cantik/indah"
+ },
+ {
+  "other": "苹果",
+  "pinyin": "píng guǒ",
+  "english": "apple",
+  "indonesia": "apel"
+ },
+ {
+  "other": "七",
+  "pinyin": "qī",
+  "english": "seven",
+  "indonesia": "tujuh"
+ },
+ {
+  "other": "钱",
+  "pinyin": "qián",
+  "english": "coin",
+  "indonesia": "uang"
+ },
+ {
+  "other": "前面",
+  "pinyin": "qián miàn",
+  "english": "ahead",
+  "indonesia": "di depan"
+ },
+ {
+  "other": "请",
+  "pinyin": "qǐng",
+  "english": "to ask",
+  "indonesia": "silakan; meminta"
+ },
+ {
+  "other": "去",
+  "pinyin": "qù",
+  "english": "to go",
+  "indonesia": "pergi"
+ },
+ {
+  "other": "热",
+  "pinyin": "rè",
+  "english": "to warm up",
+  "indonesia": "panas"
+ },
+ {
+  "other": "人",
+  "pinyin": "rén",
+  "english": "man",
+  "indonesia": "orang"
+ },
+ {
+  "other": "认识",
+  "pinyin": "rèn shi",
+  "english": "to know",
+  "indonesia": "mengenal"
+ },
+ {
+  "other": "日",
+  "pinyin": "rì",
+  "english": "sun",
+  "indonesia": "matahari; hari"
+ },
+ {
+  "other": "三",
+  "pinyin": "sān",
+  "english": "three",
+  "indonesia": "tiga"
+ },
+ {
+  "other": "商店",
+  "pinyin": "shāng diàn",
+  "english": "store",
+  "indonesia": "toko"
+ },
+ {
+  "other": "上",
+  "pinyin": "shàng",
+  "english": "on top",
+  "indonesia": "atas; di atas"
+ },
+ {
+  "other": "上午",
+  "pinyin": "shàng wǔ",
+  "english": "morning",
+  "indonesia": "pagi"
+ },
+ {
+  "other": "少",
+  "pinyin": "shǎo",
+  "english": "few",
+  "indonesia": "sedikit"
+ },
+ {
+  "other": "谁",
+  "pinyin": "shéi",
+  "english": "who",
+  "indonesia": "siapa"
+ },
+ {
+  "other": "什么",
+  "pinyin": "shén me",
+  "english": "what?",
+  "indonesia": "apa"
+ },
+ {
+  "other": "十",
+  "pinyin": "shí",
+  "english": "ten",
+  "indonesia": "sepuluh"
+ },
+ {
+  "other": "时候",
+  "pinyin": "shí hou",
+  "english": "time",
+  "indonesia": "waktu/saat"
+ },
+ {
+  "other": "是",
+  "pinyin": "shì",
+  "english": "is",
+  "indonesia": "adalah/iya (kata kerja)"
+ },
+ {
+  "other": "书",
+  "pinyin": "shū",
+  "english": "book",
+  "indonesia": "buku"
+ },
+ {
+  "other": "水",
+  "pinyin": "shuǐ",
+  "english": "water",
+  "indonesia": "air"
+ },
+ {
+  "other": "水果",
+  "pinyin": "shuǐ guǒ",
+  "english": "fruit",
+  "indonesia": "buah"
+ },
+ {
+  "other": "睡觉",
+  "pinyin": "shuì jiào",
+  "english": "to go to bed",
+  "indonesia": "tidur"
+ },
+ {
+  "other": "说话",
+  "pinyin": "shuō huà",
+  "english": "to speak",
+  "indonesia": "berbicara"
+ },
+ {
+  "other": "四",
+  "pinyin": "sì",
+  "english": "four",
+  "indonesia": "empat"
+ },
+ {
+  "other": "岁",
+  "pinyin": "suì",
+  "english": "classifier for years (of age)",
+  "indonesia": "tahun (usia)"
+ },
+ {
+  "other": "他",
+  "pinyin": "tā",
+  "english": "he or him",
+  "indonesia": "dia (laki-laki)"
+ },
+ {
+  "other": "她",
+  "pinyin": "tā",
+  "english": "she",
+  "indonesia": "dia (perempuan)"
+ },
+ {
+  "other": "太",
+  "pinyin": "tài",
+  "english": "highest",
+  "indonesia": "terlalu/sangat"
+ },
+ {
+  "other": "天气",
+  "pinyin": "tiān qì",
+  "english": "weather",
+  "indonesia": "cuaca"
+ },
+ {
+  "other": "听",
+  "pinyin": "tīng",
+  "english": "to listen",
+  "indonesia": "mendengarkan"
+ },
+ {
+  "other": "同学",
+  "pinyin": "tóng xué",
+  "english": "to study at the same school",
+  "indonesia": "teman sekelas"
+ },
+ {
+  "other": "喂",
+  "pinyin": "wèi",
+  "english": "to feed",
+  "indonesia": "halo (saat telepon)"
+ },
+ {
+  "other": "我",
+  "pinyin": "wǒ",
+  "english": "I",
+  "indonesia": "saya"
+ },
+ {
+  "other": "我们",
+  "pinyin": "wǒ men",
+  "english": "we",
+  "indonesia": "kami/kita"
+ },
+ {
+  "other": "五",
+  "pinyin": "wǔ",
+  "english": "five",
+  "indonesia": "lima"
+ },
+ {
+  "other": "喜欢",
+  "pinyin": "xǐ huan",
+  "english": "to like",
+  "indonesia": "menyukai"
+ }
+]
