@@ -50,22 +50,6 @@ Route::get('/flashcard', function () {
 Route::get('/flashcard/{level}', function ($level) {
     return view('flashcard', ['level' => $level]);
 });
-// Route::get('/generate-valid-pinyin', function () {
-//     $path = public_path('pinyin-chart/mp3-chinese-pinyin-sound/mp3');
-//     $files = scandir($path);
-
-//     $valid = [];
-//     foreach ($files as $file) {
-//         if (preg_match('/^([a-züv]+)[1-4]\.mp3$/u', $file, $m)) {
-//             $valid[] = $m[1]; // ambil tanpa tone
-//         }
-//     }
-
-//     $valid = array_values(array_unique($valid));
-//     sort($valid);
-
-//     return response()->json($valid);
-// });
 Route::get('/generate-valid-pinyin', function () {
     try {
         $path = public_path('pinyin-chart/mp3-chinese-pinyin-sound/mp3');
