@@ -1,6 +1,6 @@
 @extends('layout.main')
 
-@section('title', 'Jelajah Mandarin')
+@section('title', 'Xue ZhongWen')
 
 @section('content')
 
