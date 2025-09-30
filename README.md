@@ -14,7 +14,6 @@ Aplikasi untuk belajar bahasa Mandarin yang dikembangkan dengan **Laravel** dan 
 
 | Kategori     | Teknologi                | Keterangan                                         |
 | ------------ | ----------------------- | ------------------------------------------------- |
-| **Backend**  | Laravel (PHP)            | Framework utama untuk logika aplikasi dan API.    |
 | **Frontend** | Bootstrap                | CSS Framework untuk desain responsif dan UI.      |
 | **Interaktif**| Google TTS              | Digunakan untuk fitur speaking dan listening audio.|
 | **Dependencies** | Composer & NPM        | Pengelolaan paket PHP dan frontend (JS/CSS).      |
