@@ -12,12 +12,12 @@ Aplikasi untuk belajar bahasa Mandarin yang dikembangkan dengan **Laravel** dan 
 
 ## 🛠️ Teknologi yang Digunakan
 
-| Kategori     | Teknologi                | Keterangan                                         |
-| ------------ | ----------------------- | ------------------------------------------------- |
-| **Framewok**  | Laravel (PHP)           | Dibangun dengan bahasa pemrograman PHP.          |
-| **Desain**    | Bootstrap               | CSS Framework untuk desain responsif dan UI.      |
-| **Interaktif**| Google TTS              | Digunakan untuk fitur speaking dan listening audio.|
-| **Dependencies** | Composer & NPM        | Pengelolaan paket PHP dan frontend (JS/CSS).      |
+| Kategori     | Teknologi                | Keterangan                                       |
+| ------------ | -----------------------  | ------------------------------------------------ |
+| **Framewok**  | Laravel                 | Dibangun dengan bahasa pemrograman PHP.          |
+| **Desain**    | Bootstrap               | CSS Framework untuk desain responsif dan UI.     |
+| **Interaktif**| Google TTS              | Digunakan untuk penerjemahan teks menjadi suara. |
+| **Dependencies** | Composer & NPM       | Pengelolaan paket PHP JS maupun CSS.             |
 
 ---
 
@@ -29,7 +29,7 @@ Aplikasi ini menyediakan modul latihan fokus pada:
 * **Listening:** Pengenalan dan pemahaman audio pinyin dan kalimat Mandarin.  
 * **Reading:** Menyediakan chart pinyin interaktif dan flashcards untuk memperkaya kosakata.  
 * **Writing:** Modul sederhana untuk pengenalan dan latihan urutan coretan karakter Hanzi.
-* **Tes dan Quiz:** Modul sederhana untuk quiz berisi flashcard dan menebak karakter hanzi.
+* **Test dan Quiz:** Modul sederhana untuk quiz berisi flashcard dan menebak karakter hanzi.
 
 ---
 
@@ -42,7 +42,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi secara lokal.
 - PHP 7.4.19 (cli)  
 - Laravel Installer 4.5.1  
 - Composer  
-- Node.js  
+- NPM  
 - MySQL/MariaDB
 
 ### Langkah-langkah
@@ -53,7 +53,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi secara lokal.
     cd <nama-folder>
     ```
 
-2. **Install Dependencies Backend:**  
+2. **Install Dependencies:**  
     ```bash
     composer install
     ```
@@ -66,11 +66,6 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi secara lokal.
 
 4. **Konfigurasi Database:**  
     Edit `.env` sesuai konfigurasi database Anda.
-
-5. **Jalankan Migrasi:**  
-    ```bash
-    php artisan migrate
-    ```
 
 6. **(Opsional) Compile Assets Frontend:**  
     ```bash
