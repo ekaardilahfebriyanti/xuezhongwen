@@ -27,14 +27,16 @@
 
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg">
-      <div class="container position-relative">
+      <div class="container d-flex align-items-center">
+        
         <a class="text-decoration-none" href="{{ url('/') }}">
-        <img src="{{ asset('img/logo.png') }}" alt="Logo" class="navbar-logo">
+          <img src="{{ asset('img/logo.png') }}" alt="Logo" class="navbar-logo">
         </a>
         <a class="navbar-brand" href="{{ url('/') }}">
           Xue ZhongWen
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+        
+        <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" 
                 data-bs-target="#navbarNav" aria-controls="navbarNav" 
                 aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>

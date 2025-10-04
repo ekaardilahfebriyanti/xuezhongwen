@@ -1,177 +1,206 @@
 body {
-      font-family: 'Segoe UI', sans-serif;
-      background: #f7f8fc;
-    }
-    html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #f7f8fc;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .page-wrapper {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
+.navbar {
+    background: linear-gradient(90deg, #ffffff, #f0f0f0);
+    height: 70px;
+    overflow: visible;
+    z-index: 1050;
+    position: relative;
+}
 
-    .navbar {
-      background: linear-gradient(90deg, #ffffff, #f0f0f0);
-      height: 70px;
-      overflow: visible;
+/* --- PERBAIKAN UTAMA: LOGO (Menggunakan Flexbox daripada Absolute Positioning) --- */
+.navbar-logo {
+    height: 60px; /* Ukuran yang lebih wajar untuk desktop */
+    width: auto;
+    /* Menghapus position: absolute; dan properti terkait */
+    margin-right: 15px; /* Memberi jarak ke brand di desktop */
+    z-index: 10;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: #ee3e3eff !important;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: color 0.3s ease;
+    display: inline-block;
+}
+
+/* Keyframes efek kembang api text-shadow dengan warna merah tua (TIDAK BERUBAH) */
+@keyframes fireworks {
+    0% {
+        text-shadow: 0 0 0 #8B0000, 0 0 0 #A52A2A, 0 0 0 #B22222, 0 0 0 #800000, 0 0 0 #A52A2A, 0 0 0 #8B0000;
     }
+    50% {
+        text-shadow: 2px 0 8px #8B0000, -2px 0 8px #A52A2A, 0 2px 8px #B22222, 0 -2px 8px #800000, 1.5px 1.5px 8px #A52A2A, -1.5px -1.5px 8px #8B0000;
+    }
+    100% {
+        text-shadow: 0 0 0 #8B0000, 0 0 0 #A52A2A, 0 0 0 #B22222, 0 0 0 #800000, 0 0 0 #A52A2A, 0 0 0 #8B0000;
+    }
+}
 
+.navbar-brand:hover {
+    color: #8B0000 !important;
+    animation: fireworks 1.5s ease-in-out forwards;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: #444 !important;
+    font-weight: 600;
+}
+
+.nav-link:hover {
+    color: #000 !important;
+}
+
+.navbar-toggler {
+    z-index: 1060;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='black' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+/* --- TANGANI BACKGROUND PUTIH PADA MENU YANG DIBUKA DI MOBILE --- */
+.navbar-collapse.show {
+    background-color: #ffffff; 
+    padding-top: 10px; /* Tambahkan sedikit padding di atas */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+}
+/* ----------------------------------------------------------------- */
+
+
+@media (max-width: 991.98px) {
+    /* Gunakan 991.98px agar sesuai dengan breakpoint navbar-expand-lg */
+    
     .navbar-logo {
-      height: 120px;
-      width: auto;
-      position: absolute;
-      top: 50%;
-      left: 0;
-      transform: translateY(-50%);
-      z-index: 10;
+        height: 40px; /* Ukuran logo di mobile */
+        margin-right: 10px;
+        position: static;
+        transform: none;
     }
 
     .navbar-brand {
-      position: relative;
-      padding-left: 80px;
-      font-weight: 600;
-      font-size: 1.3rem;
-      color: #ee3e3eff !important;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      cursor: pointer;
-      transition: color 0.3s ease;
-      display: inline-block;
-    }
-
-    /* Keyframes efek kembang api text-shadow dengan warna merah tua */
-    @keyframes fireworks {
-      0% {
-        text-shadow:
-          0 0 0 #8B0000,
-          0 0 0 #A52A2A,
-          0 0 0 #B22222,
-          0 0 0 #800000,
-          0 0 0 #A52A2A,
-          0 0 0 #8B0000;
-      }
-      50% {
-        text-shadow:
-          2px 0 8px #8B0000,
-          -2px 0 8px #A52A2A,
-          0 2px 8px #B22222,
-          0 -2px 8px #800000,
-          1.5px 1.5px 8px #A52A2A,
-          -1.5px -1.5px 8px #8B0000;
-      }
-      100% {
-        text-shadow:
-          0 0 0 #8B0000,
-          0 0 0 #A52A2A,
-          0 0 0 #B22222,
-          0 0 0 #800000,
-          0 0 0 #A52A2A,
-          0 0 0 #8B0000;
-      }
-    }
-
-    .navbar-brand:hover {
-      color: #8B0000 !important;  /* merah tua */
-      animation: fireworks 1.5s ease-in-out forwards;
-      text-decoration: none;
-    }
-
-    .nav-link {
-      color: #444 !important;
-      font-weight: 600;
-    }
-
-    .nav-link:hover {
-      color: #000 !important;
-    }
-
-    .navbar-toggler-icon {
-      background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='black' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
-    }
-
-    @media (max-width: 768px) {
-      .navbar-logo {
-        height: 50px;
-      }
-
-      .navbar-brand {
-        padding-left: 65px;
+        padding-left: 0;
         font-size: 1.2rem;
-      }
     }
-    .carousel-item img {
-      height: 90vh;
-      object-fit: cover;
-    }
-
-    .carousel-caption {
-      padding: 20px;
-      background: rgba(0, 0, 0, 0.4);
-      border-radius: 12px;
+    
+    /* Pastikan nav-item mengambil lebar penuh di mobile */
+    .navbar-nav .nav-item {
+        width: 100%;
+        padding: 5px 15px; /* Padding untuk setiap item menu utama */
     }
 
-    footer {
-      background-color: #222;        /* Warna gelap untuk kontras */
-      color: #bbb;                   /* Warna teks abu muda */
-      text-align: center;            /* Tengah teks */
-      padding: 20px 10px;            /* Padding atas-bawah dan kiri-kanan */
-      font-size: 0.9rem;             /* Ukuran font agak kecil tapi jelas */
-      font-weight: 500;              /* Sedikit tebal */
-      letter-spacing: 0.05em;        /* Spasi huruf sedikit lebih renggang */
-      box-shadow: inset 0 1px 0 #444; /* Garis halus di atas footer */
-      user-select: none;             /* Agar teks tidak bisa diseleksi */
-    }
-
-    /* Navbar brand style */
-    .navbar-brand span {
-      color: #d6336c; /* pinkish red */
-      letter-spacing: 1.2px;
-    }
-
-    /* Nav-link base style */
-    .nav-link {
-      color: #444 !important;
-      font-weight: 600;
-      transition: color 0.3s ease;
-    }
-
-    .nav-link:hover, .nav-link:focus {
-      color: #d6336c !important;
-      text-decoration: none;
-    }
-
-    /* Dropdown menu style */
+    /* PERBAIKAN DROPDOWN MOBILE: BACKGROUND DAN TATA LETAK */
     .dropdown-menu {
-      border-radius: 10px;
-      background: #fff;
-      min-width: 12rem;
-      padding: 0.5rem 0;
-      transition: opacity 0.3s ease, transform 0.3s ease;
-      transform-origin: top center;
+        /* PROPERTI INI PENTING: Memastikan background putih solid */
+        background-color: #ffffff !important; 
+        
+        width: 100%; /* Ambil lebar penuh kontainer */
+        border: none;
+        box-shadow: none !important; /* Hapus bayangan agar rapi di dalam menu */
+        
+        position: static !important; /* Mencegah masalah positioning */
+        transform: none !important;
+        
+        /* Kurangi padding vertikal dan tambahkan indentasi horizontal */
+        padding: 0; 
+        margin-top: 5px;
+        margin-bottom: 5px;
     }
-
-    /* Dropdown-item hover */
+    
+    /* Berikan padding pada item dropdown agar menjorok ke dalam */
     .dropdown-item {
-      font-weight: 500;
-      color: #444;
-      transition: background-color 0.25s ease, color 0.25s ease;
+        padding-left: 30px; 
     }
+}
+/* --- AKHIR PERBAIKAN MEDIA QUERY --- */
 
-    .dropdown-item:hover, .dropdown-item:focus {
-      background-color: #f8d7da;
-      color: #d6336c;
-    }
 
-    /* Shadow for dropdown */
-    .dropdown-menu.shadow {
-      box-shadow: 0 8px 20px rgba(214, 51, 108, 0.25);
-    }
+.carousel-item img {
+    height: 90vh;
+    object-fit: cover;
+}
 
+.carousel-caption {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 12px;
+}
+
+footer {
+    background-color: #222;
+    color: #bbb;
+    text-align: center;
+    padding: 20px 10px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    box-shadow: inset 0 1px 0 #444;
+    user-select: none;
+}
+
+/* Navbar brand style */
+.navbar-brand span {
+    color: #d6336c;
+    letter-spacing: 1.2px;
+}
+
+/* Nav-link base style */
+.nav-link {
+    color: #444 !important;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: #d6336c !important;
+    text-decoration: none;
+}
+
+/* Dropdown menu style (untuk desktop dan sebagai base) */
+.dropdown-menu {
+    border-radius: 10px;
+    background: #fff;
+    min-width: 12rem;
+    padding: 0.5rem 0;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    transform-origin: top center;
+}
+
+/* Dropdown-item hover */
+.dropdown-item {
+    font-weight: 500;
+    color: #444;
+    transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    background-color: #f8d7da;
+    color: #d6336c;
+}
+
+/* Shadow for dropdown */
+.dropdown-menu.shadow {
+    box-shadow: 0 8px 20px rgba(214, 51, 108, 0.25);
+}
 /* listening */
 .scoped-css2 body {
   font-family: "Segoe UI", Arial, sans-serif;
