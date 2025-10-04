@@ -22,16 +22,16 @@ html, body {
     position: relative;
 }
 
-/* --- PERBAIKAN UTAMA: LOGO (Menggunakan Flexbox daripada Absolute Positioning) --- */
+/* --- LOGO dan BRAND (Tampilan Desktop) --- */
 .navbar-logo {
-    height: 60px; /* Ukuran yang lebih wajar untuk desktop */
+    height: 60px; 
     width: auto;
-    /* Menghapus position: absolute; dan properti terkait */
-    margin-right: 15px; /* Memberi jarak ke brand di desktop */
+    margin-right: 15px;
     z-index: 10;
 }
 
 .navbar-brand {
+    padding-left: 5px; 
     font-weight: 600;
     font-size: 1.3rem;
     color: #ee3e3eff !important;
@@ -42,7 +42,7 @@ html, body {
     display: inline-block;
 }
 
-/* Keyframes efek kembang api text-shadow dengan warna merah tua (TIDAK BERUBAH) */
+/* Keyframes (TIDAK BERUBAH) */
 @keyframes fireworks {
     0% {
         text-shadow: 0 0 0 #8B0000, 0 0 0 #A52A2A, 0 0 0 #B22222, 0 0 0 #800000, 0 0 0 #A52A2A, 0 0 0 #8B0000;
@@ -78,60 +78,87 @@ html, body {
     background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='black' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
-/* --- TANGANI BACKGROUND PUTIH PADA MENU YANG DIBUKA DI MOBILE --- */
-.navbar-collapse.show {
+/* --- HAPUS ATURAN INI UNTUK MENCEGAH SISA BACKGROUND --- */
+/* .navbar-collapse.show {
     background-color: #ffffff; 
-    padding-top: 10px; /* Tambahkan sedikit padding di atas */
+    padding-top: 5px; 
+    padding-bottom: 5px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
-}
-/* ----------------------------------------------------------------- */
-
+} */
+/* -------------------------------------------------------- */
 
 @media (max-width: 991.98px) {
-    /* Gunakan 991.98px agar sesuai dengan breakpoint navbar-expand-lg */
     
     .navbar-logo {
-        height: 40px; /* Ukuran logo di mobile */
+        height: 40px; 
         margin-right: 10px;
         position: static;
         transform: none;
     }
 
     .navbar-brand {
-        padding-left: 0;
+        padding-left: 0; 
         font-size: 1.2rem;
     }
     
-    /* Pastikan nav-item mengambil lebar penuh di mobile */
+    /* Nav-item: Hapus margin/padding horizontal */
     .navbar-nav .nav-item {
         width: 100%;
-        padding: 5px 15px; /* Padding untuk setiap item menu utama */
-    }
-
-    /* PERBAIKAN DROPDOWN MOBILE: BACKGROUND DAN TATA LETAK */
-    .dropdown-menu {
-        /* PROPERTI INI PENTING: Memastikan background putih solid */
-        background-color: #ffffff !important; 
-        
-        width: 100%; /* Ambil lebar penuh kontainer */
-        border: none;
-        box-shadow: none !important; /* Hapus bayangan agar rapi di dalam menu */
-        
-        position: static !important; /* Mencegah masalah positioning */
-        transform: none !important;
-        
-        /* Kurangi padding vertikal dan tambahkan indentasi horizontal */
-        padding: 0; 
-        margin-top: 5px;
-        margin-bottom: 5px;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
     }
     
-    /* Berikan padding pada item dropdown agar menjorok ke dalam */
+    /* Nav-link: Tambahkan background putih ke setiap link agar terlihat solid */
+    .nav-link {
+        padding: 8px 15px !important; 
+        width: 100%;
+        background-color: #ffffff; /* PENTING: Memberikan background putih di sini */
+    }
+    
+    /* Nav-link saat di dalam menu collapse yang terbuka */
+    .collapse.show .nav-item:last-child .nav-link {
+        /* Opsional: Hapus border-bottom atau berikan sedikit ruang di akhir */
+        border-bottom: 1px solid #f0f0f0; 
+    }
+
+    /* DROPDOWN MENU MOBILE: Memastikan ringkas */
+    .dropdown-menu {
+        /* Hapus background-color: #ffffff !important; agar tidak double */
+        background-color: transparent !important; /* Hapus background dari ul */
+        
+        width: auto !important; 
+        min-width: unset !important;
+
+        /* Posisikan menu dropdown di bawah link utama */
+        margin-left: 15px; 
+        
+        border-radius: 0; 
+        border: none;
+        box-shadow: none !important;
+        
+        position: static !important;
+        transform: none !important;
+        
+        /* Hapus padding/margin vertikal agar ringkas */
+        padding: 0; 
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    
+    /* Item Dropdown: Berikan background putih dan padding ringkas */
     .dropdown-item {
-        padding-left: 30px; 
+        padding: 5px 15px; 
+        /* PENTING: Berikan background putih di sini */
+        background-color: #ffffff !important; 
+    }
+    
+    /* Pastikan hover item dropdown tetap berfungsi */
+    .dropdown-item:hover, .dropdown-item:focus {
+        background-color: #f0f0f0; 
+        color: #d6336c;
     }
 }
-/* --- AKHIR PERBAIKAN MEDIA QUERY --- */
+/* ----------------------------------------------------------------- */
 
 
 .carousel-item img {
@@ -139,6 +166,7 @@ html, body {
     object-fit: cover;
 }
 
+/* ... Sisa CSS di bawah tidak berubah ... */
 .carousel-caption {
     padding: 20px;
     background: rgba(0, 0, 0, 0.4);
@@ -157,13 +185,11 @@ footer {
     user-select: none;
 }
 
-/* Navbar brand style */
 .navbar-brand span {
     color: #d6336c;
     letter-spacing: 1.2px;
 }
 
-/* Nav-link base style */
 .nav-link {
     color: #444 !important;
     font-weight: 600;
@@ -175,7 +201,6 @@ footer {
     text-decoration: none;
 }
 
-/* Dropdown menu style (untuk desktop dan sebagai base) */
 .dropdown-menu {
     border-radius: 10px;
     background: #fff;
@@ -185,19 +210,12 @@ footer {
     transform-origin: top center;
 }
 
-/* Dropdown-item hover */
 .dropdown-item {
     font-weight: 500;
     color: #444;
     transition: background-color 0.25s ease, color 0.25s ease;
 }
 
-.dropdown-item:hover, .dropdown-item:focus {
-    background-color: #f8d7da;
-    color: #d6336c;
-}
-
-/* Shadow for dropdown */
 .dropdown-menu.shadow {
     box-shadow: 0 8px 20px rgba(214, 51, 108, 0.25);
 }
